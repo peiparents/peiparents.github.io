@@ -1,10 +1,10 @@
 {
   "site": {
     "lang": "en",
-    "title": "Charity template",
+    "title": "PEI Parents",
     "titleDelim": " | ",
-    "description": "Free charity website template",
-    "keywords": "html template, theme, freebie, opensource",
+    "description": "PEI Parents",
+    "keywords": "",
     "url": "http://website-templates.github.io/charity_responsive-template"
   },
   "modules": {
